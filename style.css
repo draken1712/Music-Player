@@ -1,0 +1,261 @@
+body {
+    background-color: rgb(65, 62, 62);
+}
+
+#genre {
+    font-size: 15px;
+    margin: 40px;
+    display: inline-block;
+    margin-left: 300px;
+    background-color: rgb(108, 98, 98);
+    color: white;
+    padding: 9px;
+    border-radius: 8px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.home {
+    margin: 30px;
+    display: inline-block;
+    font-size: 20px;
+    margin-left: 300px;
+    outline: 2px solid black;
+    color: white;
+    padding: 10px;
+    padding-left: 16px;
+    padding-right: 16px;
+    border-radius: 8px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+
+}
+
+.singer {
+    font-size: 15px;
+    margin: 40px;
+    display: inline-block;
+    margin-left: 300px;
+    background-color: rgb(108, 98, 98);
+    color: white;
+    padding: 9px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-radius: 8px;
+}
+
+#header {
+    border: 2px solid black;
+    position: sticky;
+    top: 0;
+    background-color: rgb(62, 58, 58);
+    z-index: 4;
+
+}
+
+.border {
+    border: 2px solid black;
+    padding-inline-end: 396px;
+    margin-top: 5px;
+    padding-bottom: 20px;
+}
+
+
+#song1 {
+    display: inline-block;
+}
+
+.songname1 {
+    color: white;
+    display: inline;
+    margin-left: 30px;
+    margin-top: 54px;
+    position: absolute;
+}
+
+.singername1 {
+    color: white;
+    display: inline;
+    margin-left: 30px;
+    margin-top: 90px;
+    position: absolute;
+}
+
+.audio1 {
+    /* background-color: rgb(192, 206, 206); */
+    color: rgb(213, 205, 194);
+    width: 500px;
+    margin-left: 20px;
+
+}
+
+
+img {
+    margin-top: 30px;
+    margin-left: 8px;
+}
+
+.songname2 {
+    color: white;
+    display: inline;
+    margin-left: 30px;
+    margin-top: 54px;
+    position: absolute;
+}
+
+.singername2 {
+    color: white;
+    display: inline;
+    margin-left: 30px;
+    margin-top: 90px;
+    position: absolute;
+}
+
+.audio2 {
+    /* background-color: rgb(192, 206, 206); */
+    color: rgb(213, 205, 194);
+    width: 500px;
+    margin-left: 20px;
+}
+
+img {
+    margin-top: 30px;
+    margin-left: 430px;
+}
+
+.songname3 {
+    color: white;
+    display: inline;
+    margin-left: 30px;
+    margin-top: 54px;
+    position: absolute;
+}
+
+.singername3 {
+    color: white;
+    display: inline;
+    margin-left: 30px;
+    margin-top: 90px;
+    position: absolute;
+}
+
+.audio3 {
+    /* background-color: rgb(192, 206, 206); */
+    color: rgb(213, 205, 194);
+    width: 500px;
+    margin-left: 20px;
+}
+
+img {
+    margin-top: 30px;
+    margin-left: 430px;
+}
+
+.songname4 {
+    color: white;
+    display: inline;
+    margin-left: 30px;
+    margin-top: 54px;
+    position: absolute;
+}
+
+.singername4 {
+    color: white;
+    display: inline;
+    margin-left: 30px;
+    margin-top: 90px;
+    position: absolute;
+}
+
+.audio4 {
+    /* background-color: rgb(192, 206, 206); */
+    color: rgb(213, 205, 194);
+    width: 500px;
+    margin-left: 20px;
+}
+
+img {
+    margin-top: 30px;
+    margin-left: 430px;
+}
+
+.songname5 {
+    color: white;
+    display: inline;
+    margin-left: 30px;
+    margin-top: 54px;
+    position: absolute;
+}
+
+.singername5 {
+    color: white;
+    display: inline;
+    margin-left: 30px;
+    margin-top: 90px;
+    position: absolute;
+}
+
+.audio5 {
+    /* background-color: rgb(192, 206, 206); */
+    color: rgb(213, 205, 194);
+    width: 500px;
+    margin-left: 20px;
+}
+
+img {
+    margin-top: 30px;
+    margin-left: 430px;
+}
+
+.songname6 {
+    color: white;
+    display: inline;
+    margin-left: 30px;
+    margin-top: 54px;
+    position: absolute;
+}
+
+.singername6 {
+    color: white;
+    display: inline;
+    margin-left: 30px;
+    margin-top: 90px;
+    position: absolute;
+}
+
+.audio6 {
+    /* background-color: rgb(192, 206, 206); */
+    color: rgb(213, 205, 194);
+    width: 500px;
+    margin-left: 20px;
+}
+
+img {
+    margin-top: 30px;
+    margin-left: 430px;
+}
+
+.songname7 {
+    color: white;
+    display: inline;
+    margin-left: 30px;
+    margin-top: 54px;
+    position: absolute;
+}
+
+.singername7 {
+    color: white;
+    display: inline;
+    margin-left: 30px;
+    margin-top: 90px;
+    position: absolute;
+}
+
+.audio7 {
+    /* background-color: rgb(192, 206, 206); */
+    color: rgb(213, 205, 194);
+    width: 500px;
+    margin-left: 20px;
+}
